@@ -12,3 +12,13 @@ The evaluation metric will be determined by the model evaluating the best featur
 
 4. Features:
 Kaggle provides a data list of 18 columns for data (see the link above)
+
+Besides Wins and Top 10 finishes, the most important factors in winning are Average Score and Average SG Total
+SG Total = Strokes Gained on average stokes of competitor.
+
+Next step is to reformat the data to determine the "Best" from only the following categories:
+Average Putts
+Average Distance
+Average Scrambling
+gir(greens in regulation)
+Fairway Percentage
