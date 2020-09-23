@@ -22,3 +22,6 @@ Average Distance
 Average Scrambling
 gir(greens in regulation)
 Fairway Percentage
+
+According to the final model, gir(greens in regulation) are the most important feature when determing Wins and Top_10 finishes.
+Followed closely by Average Putts. Surprisingly, Fairway percentage was rather low.
